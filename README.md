@@ -10,3 +10,5 @@
 ##
 ![Landing](https://github.com/KoeMJ/genshin.guides/blob/master/images/Guides%20Landing.png)
 ##
+
+## This is not a real project, it is a practice
