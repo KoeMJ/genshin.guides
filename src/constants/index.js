@@ -55,7 +55,7 @@ export const about = [
 ];
 
 export const socialMedias = [
-  { id: 1, link: 'https://github.com/KoeKun', icon: React.createElement(FaGithub) },
+  { id: 1, link: 'https://github.com/KoeMJ', icon: React.createElement(FaGithub) },
   { id: 2, link: 'https://www.instagram.com/mj3d_kun/', icon: React.createElement(FaInstagram) },
 ];
 
